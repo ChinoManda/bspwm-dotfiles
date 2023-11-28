@@ -1,0 +1,8 @@
+[user]
+	name = ChinoManda
+	password = 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
+	email = francofedullo22@gmail.com
+[credential]
+	helper = store
+[alias]
+	adog = log --all --decorate --oneline --graph
